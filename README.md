@@ -1,6 +1,4 @@
-### Digital Inovation One
-
-#DIO - Introdução ao Kotlin
+## Digital Inovation One - Introdução ao Kotlin
 
 - Fundamentos da Orientação a Objetos
 - Collections
